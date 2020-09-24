@@ -1,0 +1,6 @@
+/* border:굵기 선유형 선색깔 */
+.Todo {
+    margin-bottom:10px; 
+    padding:10px; 
+    border:1px solid #e1e1e1;
+}
